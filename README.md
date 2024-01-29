@@ -59,7 +59,7 @@ Viene riportato un repository di esempio dal quale ricavare la struttura di quan
 |Rebasti Claudia| <> | <> |
 |Reibaldi Erica| <https://github.com/EricaReibaldi/Prova> | <> |
 |*Restelli Davide| <> | <> |
-|Valsecchi Sara| <> | <> |
+|Valsecchi Sara| <https://github.com/valsecchisara/test> | <> |
 |*Vessoso Giulia| <> | <> |
 |Zanforlin Noemi| <https://github.com/NoemiZanforlin/sito-esame> | <> |
 |Zinnari Giulia| <https://github.com/giuliazinnari/progettoacme> | <> |
