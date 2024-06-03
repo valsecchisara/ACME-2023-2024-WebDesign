@@ -46,7 +46,7 @@ Viene riportato un repository di esempio nel quale sono stati inseriti alcuni es
 |Colletto Giorgia| <https://github.com/gioppyui/esame> | <https://giopgraphicsportfolio.netlify.app/> | S | N |
 |De Palma Eleonora| <https://github.com/eleonoradepalma/Progetto-esame> | <https://erikasorbello.netlify.app/> | S | N |
 |Dellagaren Nicolò| <https://github.com/NicoloDellagaren17/Dellagaren-Portfolio> | <https://dellagarenportolio.netlify.app/> | S | N |
-|Devivo Beatrice| <https://github.com/BeatrisDevivo/esercizi1> | <https://legendary-wisp-c78ce4.netlify.app/> | S | N |
+|Devivo Beatrice| <https://github.com/BeatrisDevivo/esercizi1> | <https://legendary-wisp-c78ce4.netlify.app/> |
 |Donetti Cristiano| <https://github.com/crisdonetti/Flair-progetto-esame> | <https://flairbrand.netlify.app/> |
 |El Hibari Yasmine| <https://github.com/Yaz2024/Esercizi> | <https://velvety-halva-c5080f.netlify.app/> |
 |Gazzoli Andrea| <https://github.com/andregaz23/Gazzoli-Tipsy-Studio> | <https://main--tipsystudio.netlify.app/> |
@@ -65,7 +65,7 @@ Viene riportato un repository di esempio nel quale sono stati inseriti alcuni es
 |Rebasti Claudia| <https://github.com/claudiarebasti/claudia> | <https://claudia-mu.vercel.app/> |
 |Reibaldi Erica| <https://github.com/EricaReibaldi/Prova> | <https://ericareibaldiportfolio.netlify.app/> |
 |Restelli Davide| <https://github.com/Chiorico/Pippo> | <> |
-|Valsecchi Sara| <https://github.com/valsecchisara/test> | <https://ilmondodeitessuti.netlify.app/> |
+|Valsecchi Sara| <https://github.com/valsecchisara/test> | [ (https://portfoliodimoda.netlify.app) |
 |Vessoso Giulia| <https://github.com/GiuliaVessoso/Vessoso-Giulia-progetto-webdesign> | <https://zephyr-agenziaviaggi.netlify.app/> |
 |Zanforlin Noemi| <https://github.com/NoemiZanforlin/sito-esame> | <https://fairytaleweddings-noemizanforlin.netlify.app/> |
 |Zinnari Giulia| <https://github.com/giuliazinnari/progettoacme> | <https://giuliazinnari-brandidentity.netlify.app/> |
